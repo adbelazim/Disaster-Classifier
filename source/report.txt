@@ -1,0 +1,10 @@
+                  precision    recall  f1-score   support
+
+    advertencias       0.00      0.00      0.00         5
+      donaciones       0.88      1.00      0.93         7
+  gente_afectada       0.00      0.00      0.00         2
+insfraestructura       0.40      0.80      0.53        10
+       no_aplica       0.62      0.62      0.62         8
+otra_informacion       0.89      0.62      0.73        13
+
+     avg / total       0.59      0.62      0.58        45
